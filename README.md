@@ -1,2 +1,7 @@
-# segundaprueba
-Sigo probando con Git
+LISTA que estaba en README
+
+Patatas
+Churros
+Calimotxo 
+Porros
+
