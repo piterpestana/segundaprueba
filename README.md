@@ -6,3 +6,5 @@ Calimotxo
 Porros
 Zumo de naranja
 Ensaladas
+Zapatillas 
+Camisetas
